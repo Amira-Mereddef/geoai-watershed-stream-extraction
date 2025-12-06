@@ -1,10 +1,6 @@
 # geoai-watershed-stream-extraction
 🌍 GeoAI Watershed Delineation & Stream Extraction
 
-Using Google Earth Engine (MERIT Hydro + HydroSHEDS)
-
-📌 Course: GeoAI Module — 3rd Year Software Engineering
-👩‍💻 Author: Amira Mereddef
 🛰 Tools: Google Earth Engine, MERIT Hydro, HydroSHEDS
 📖 Overview
 
